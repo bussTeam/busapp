@@ -1,2 +1,2 @@
-http://developer.baidu.com/map/index.php?title=jspopular
-http://developer.baidu.com/map/index.php?title=android-locsdk
+百度地图api：http://developer.baidu.com/map/index.php?title=jspopular(js)
+             http://developer.baidu.com/map/index.php?title=android-locsdk(android)
